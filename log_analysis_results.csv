@@ -1,0 +1,11 @@
+IP Address,Request Count
+127.0.0.1,2
+192.168.1.1,2
+10.0.0.2,1
+
+Most Frequently Accessed Endpoint
+Endpoint,Access Count
+/login,2
+
+Suspicious Activity Detected
+IP Address,Failed Login Count
